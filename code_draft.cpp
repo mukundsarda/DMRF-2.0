@@ -9,6 +9,7 @@ Team Members:
 3) Priyanshi Gaur (21103097)
 4) Karanjot Singh (21103096)
 */
+#include <bits/stdc++.h>
 #include<iostream>
 #include<string>
 #include<math.h>
