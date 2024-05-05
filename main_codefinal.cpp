@@ -13,6 +13,7 @@ Team Members:
 4) Karanjot Singh (21103096)
 */
 
+#include <bits/stdc++.h>
 #include<iostream>
 #include<string>
 #include<math.h>
